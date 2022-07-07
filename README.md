@@ -6,7 +6,7 @@ To add something to the Todo list use "-add" + whatever task.
 
 To delete something in the Todo list use "-del=1" (whatever task you desire to delete).
 
-To complete a task use "complete=1" (whatever task you desire to complete).
+To complete a task use "-complete=1" (whatever task you desire to complete).
 
 To view the Todo list use "-list".
 
